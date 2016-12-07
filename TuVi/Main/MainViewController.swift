@@ -11,6 +11,7 @@ import UIKit
 class MainViewController: UIViewController {
 
     @IBOutlet weak var conGiapTableView: UITableView!
+    let dsTen = ["Tuổi Tý", "Tuổi Tý", "Tuổi Tý", "Tuổi Tý", "Tuổi Tý", "Tuổi Tý", "Tuổi Tý", "Tuổi Tý", "Tuổi Tý", "Tuổi Tý", "Tuổi Tý", "Tuổi Tý"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -41,12 +42,14 @@ extension MainViewController: UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: ConGiapTableViewCell.identifier) as! ConGiapTableViewCell
+        cell.selectionStyle = .none
         return cell
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         print("Click ", indexPath.row)
         let detailViewController = DetailViewController()
+        detailViewController.number = indexPath.row + 1
         self.navigationController?.pushViewController(detailViewController, animated: true)
     }
 }

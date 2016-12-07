@@ -16,6 +16,19 @@
 		306629741DF8315A0083E1BD /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 306629721DF8315A0083E1BD /* DetailViewController.xib */; };
 		306629771DF832A20083E1BD /* ConGiapTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 306629751DF832A20083E1BD /* ConGiapTableViewCell.swift */; };
 		306629781DF832A20083E1BD /* ConGiapTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 306629761DF832A20083E1BD /* ConGiapTableViewCell.xib */; };
+		F8EC082D1DF878DA001A145F /* 12.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC08211DF878DA001A145F /* 12.html */; };
+		F8EC082E1DF878DA001A145F /* 11.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC08221DF878DA001A145F /* 11.html */; };
+		F8EC082F1DF878DA001A145F /* 10.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC08231DF878DA001A145F /* 10.html */; };
+		F8EC08301DF878DA001A145F /* 9.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC08241DF878DA001A145F /* 9.html */; };
+		F8EC08311DF878DA001A145F /* 8.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC08251DF878DA001A145F /* 8.html */; };
+		F8EC08321DF878DA001A145F /* 7.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC08261DF878DA001A145F /* 7.html */; };
+		F8EC08331DF878DA001A145F /* 6.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC08271DF878DA001A145F /* 6.html */; };
+		F8EC08341DF878DA001A145F /* 5.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC08281DF878DA001A145F /* 5.html */; };
+		F8EC08351DF878DA001A145F /* 4.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC08291DF878DA001A145F /* 4.html */; };
+		F8EC08361DF878DA001A145F /* 3.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC082A1DF878DA001A145F /* 3.html */; };
+		F8EC08371DF878DA001A145F /* 2.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC082B1DF878DA001A145F /* 2.html */; };
+		F8EC08381DF878DA001A145F /* 1.html in Resources */ = {isa = PBXBuildFile; fileRef = F8EC082C1DF878DA001A145F /* 1.html */; };
+		F8EC083B1DF87E8B001A145F /* ConGiap.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EC083A1DF87E8B001A145F /* ConGiap.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +43,19 @@
 		306629721DF8315A0083E1BD /* DetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DetailViewController.xib; path = Detail/DetailViewController.xib; sourceTree = "<group>"; };
 		306629751DF832A20083E1BD /* ConGiapTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ConGiapTableViewCell.swift; path = Main/ConGiapTableViewCell.swift; sourceTree = "<group>"; };
 		306629761DF832A20083E1BD /* ConGiapTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ConGiapTableViewCell.xib; path = Main/ConGiapTableViewCell.xib; sourceTree = "<group>"; };
+		F8EC08211DF878DA001A145F /* 12.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 12.html; sourceTree = "<group>"; };
+		F8EC08221DF878DA001A145F /* 11.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 11.html; sourceTree = "<group>"; };
+		F8EC08231DF878DA001A145F /* 10.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 10.html; sourceTree = "<group>"; };
+		F8EC08241DF878DA001A145F /* 9.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 9.html; sourceTree = "<group>"; };
+		F8EC08251DF878DA001A145F /* 8.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 8.html; sourceTree = "<group>"; };
+		F8EC08261DF878DA001A145F /* 7.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 7.html; sourceTree = "<group>"; };
+		F8EC08271DF878DA001A145F /* 6.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 6.html; sourceTree = "<group>"; };
+		F8EC08281DF878DA001A145F /* 5.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 5.html; sourceTree = "<group>"; };
+		F8EC08291DF878DA001A145F /* 4.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 4.html; sourceTree = "<group>"; };
+		F8EC082A1DF878DA001A145F /* 3.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 3.html; sourceTree = "<group>"; };
+		F8EC082B1DF878DA001A145F /* 2.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 2.html; sourceTree = "<group>"; };
+		F8EC082C1DF878DA001A145F /* 1.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 1.html; sourceTree = "<group>"; };
+		F8EC083A1DF87E8B001A145F /* ConGiap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ConGiap.swift; path = Model/ConGiap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +88,8 @@
 		306629441DF827E70083E1BD /* TuVi */ = {
 			isa = PBXGroup;
 			children = (
+				F8EC08391DF87E66001A145F /* Model */,
+				F8EC081E1DF87141001A145F /* Resource */,
 				306629691DF831120083E1BD /* Main */,
 				306629701DF8313D0083E1BD /* Detail */,
 				306629451DF827E70083E1BD /* AppDelegate.swift */,
@@ -90,6 +118,33 @@
 				306629721DF8315A0083E1BD /* DetailViewController.xib */,
 			);
 			name = Detail;
+			sourceTree = "<group>";
+		};
+		F8EC081E1DF87141001A145F /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				F8EC08211DF878DA001A145F /* 12.html */,
+				F8EC08221DF878DA001A145F /* 11.html */,
+				F8EC08231DF878DA001A145F /* 10.html */,
+				F8EC08241DF878DA001A145F /* 9.html */,
+				F8EC08251DF878DA001A145F /* 8.html */,
+				F8EC08261DF878DA001A145F /* 7.html */,
+				F8EC08271DF878DA001A145F /* 6.html */,
+				F8EC08281DF878DA001A145F /* 5.html */,
+				F8EC08291DF878DA001A145F /* 4.html */,
+				F8EC082A1DF878DA001A145F /* 3.html */,
+				F8EC082B1DF878DA001A145F /* 2.html */,
+				F8EC082C1DF878DA001A145F /* 1.html */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		F8EC08391DF87E66001A145F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F8EC083A1DF87E8B001A145F /* ConGiap.swift */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,11 +207,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8EC08361DF878DA001A145F /* 3.html in Resources */,
+				F8EC08341DF878DA001A145F /* 5.html in Resources */,
 				306629501DF827E70083E1BD /* LaunchScreen.storyboard in Resources */,
 				306629781DF832A20083E1BD /* ConGiapTableViewCell.xib in Resources */,
 				3066294D1DF827E70083E1BD /* Assets.xcassets in Resources */,
+				F8EC08331DF878DA001A145F /* 6.html in Resources */,
+				F8EC082F1DF878DA001A145F /* 10.html in Resources */,
+				F8EC082D1DF878DA001A145F /* 12.html in Resources */,
+				F8EC08311DF878DA001A145F /* 8.html in Resources */,
+				F8EC082E1DF878DA001A145F /* 11.html in Resources */,
+				F8EC08301DF878DA001A145F /* 9.html in Resources */,
+				F8EC08381DF878DA001A145F /* 1.html in Resources */,
+				F8EC08371DF878DA001A145F /* 2.html in Resources */,
 				306629741DF8315A0083E1BD /* DetailViewController.xib in Resources */,
+				F8EC08351DF878DA001A145F /* 4.html in Resources */,
 				3066296F1DF831390083E1BD /* MainViewController.xib in Resources */,
+				F8EC08321DF878DA001A145F /* 7.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,6 +236,7 @@
 			files = (
 				306629731DF8315A0083E1BD /* DetailViewController.swift in Sources */,
 				306629461DF827E70083E1BD /* AppDelegate.swift in Sources */,
+				F8EC083B1DF87E8B001A145F /* ConGiap.swift in Sources */,
 				306629771DF832A20083E1BD /* ConGiapTableViewCell.swift in Sources */,
 				3066296E1DF831390083E1BD /* MainViewController.swift in Sources */,
 			);

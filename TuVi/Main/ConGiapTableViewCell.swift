@@ -15,4 +15,7 @@ class ConGiapTableViewCell: UITableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
     }
+    
+    func update(){
+    }
 }
